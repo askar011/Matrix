@@ -3,17 +3,17 @@
     <appenders>
         <Console name="Console" target="SYSTEM_OUT">
             <PatternLayout
-                    pattern="%d{ABSOLUTE} [%-5p] (%F:%L) - %m%n" />
+                    pattern="%d{ABSOLUTE} [%-5p] (%F:%L) - %m%n"/>
         </Console>
-        <File name="File" fileName="log/app.log">
+        <File name="File" fileName="log/app.log" append="false">
             <PatternLayout
-                    pattern="%d{ABSOLUTE} [%-5p] (%F:%L) - %m%n" />
+                    pattern="%d{ABSOLUTE} [%-5p] (%F:%L) - %m%n"/>
         </File>
     </appenders>
     <Loggers>
         <Root level="trace">
-            <appenderRef ref="Console" />
-            <appenderRef ref="File" />
+            <appenderRef ref="Console"/>
+            <appenderRef ref="File"/>
         </Root>
     </Loggers>
 </Configuration>
