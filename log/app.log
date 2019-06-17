@@ -1,0 +1,1141 @@
+16:08:24,594 [INFO ] (Matrix.java:36) - size of matrix10:n
+16:08:45,413 [INFO ] (Matrix.java:36) - size of matrix10:n
+16:08:45,453 [INFO ] (Changer.java:36) - 5changematrix[ 0][0] to5
+16:08:45,457 [INFO ] (Changer.java:36) - 1changematrix[ 0][0] to1
+16:10:15,897 [INFO ] (Matrix.java:36) - size of matrix10:n
+16:10:15,945 [INFO ] (Changer.java:36) - 1changematrix[ 0][0] to1
+16:10:15,945 [INFO ] (Changer.java:36) - 3changematrix[ 0][0] to3
+16:10:15,945 [INFO ] (Changer.java:36) - 5changematrix[ 0][0] to5
+16:12:17,145 [INFO ] (Matrix.java:36) - size of matrix10:n
+16:12:17,181 [INFO ] (Changer.java:36) - 1changematrix[ 0][0] to1
+16:12:17,181 [INFO ] (Changer.java:36) - 4changematrix[ 0][0] to4
+16:14:58,289 [INFO ] (Matrix.java:36) - size of matrix10:n
+16:14:58,321 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,321 [INFO ] (Changer.java:39) - 2 changematrix [1][1] to:2
+16:14:58,325 [INFO ] (Changer.java:39) - 2 changematrix [2][2] to:2
+16:14:58,325 [INFO ] (Changer.java:39) - 2 changematrix [3][3] to:2
+16:14:58,325 [INFO ] (Changer.java:39) - 2 changematrix [4][4] to:2
+16:14:58,329 [INFO ] (Changer.java:39) - 2 changematrix [5][5] to:2
+16:14:58,329 [INFO ] (Changer.java:39) - 2 changematrix [6][6] to:2
+16:14:58,333 [INFO ] (Changer.java:39) - 2 changematrix [7][7] to:2
+16:14:58,337 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,341 [INFO ] (Changer.java:39) - 5 changematrix [8][8] to:5
+16:14:58,341 [INFO ] (Changer.java:39) - 5 changematrix [9][9] to:5
+16:14:58,345 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,345 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,349 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,349 [INFO ] (Changer.java:39) - 2 changematrix [8][8] to:2
+16:14:58,353 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,353 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,353 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,357 [INFO ] (Changer.java:39) - 1 changematrix [8][8] to:1
+16:14:58,357 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,361 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,361 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,365 [INFO ] (Changer.java:39) - 3 changematrix [8][8] to:3
+16:14:58,369 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,369 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,373 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,389 [INFO ] (Changer.java:39) - 4 changematrix [8][8] to:4
+16:14:58,389 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,393 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,393 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,401 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,401 [INFO ] (Changer.java:39) - 5 changematrix [8][8] to:5
+16:14:58,401 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,405 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,405 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,405 [INFO ] (Changer.java:39) - 1 changematrix [8][8] to:1
+16:14:58,409 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,413 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,437 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,441 [INFO ] (Changer.java:39) - 2 changematrix [8][8] to:2
+16:14:58,445 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,445 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,445 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,449 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,449 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,453 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,453 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,453 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,457 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,457 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,457 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,461 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,461 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,465 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,465 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,465 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,469 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,469 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,469 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,469 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,473 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,485 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,485 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,485 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,489 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,489 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,489 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,493 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,493 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,493 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,505 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,509 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,513 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,513 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,517 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,517 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,517 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,521 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,521 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,521 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,525 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,525 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,525 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,529 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,529 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,533 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,537 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,541 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,541 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,553 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,565 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,569 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,569 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,593 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,593 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,597 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,597 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,601 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,601 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,601 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,605 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,617 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,617 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,617 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,621 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,621 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,621 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,621 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,625 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,625 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,629 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,629 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,629 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,633 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,633 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,633 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,637 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,637 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,637 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,641 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,641 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,645 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,645 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,649 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,653 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,657 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,657 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,665 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,665 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,669 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,669 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,677 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,677 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,681 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,681 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,681 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,681 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,685 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,685 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,685 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,685 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,689 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,689 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,689 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,689 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,701 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,725 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,729 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,737 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,737 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,737 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,741 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,749 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,757 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,765 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,785 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,789 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,789 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,789 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,793 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,813 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,813 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,813 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,813 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,817 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,817 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,817 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,817 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,821 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,821 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,825 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,829 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,829 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,829 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,829 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,833 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,833 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,833 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,833 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,837 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,837 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,837 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,837 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,841 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,841 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,841 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,845 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,845 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,845 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,845 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,849 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,849 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,849 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,849 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,849 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,853 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,857 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,857 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,857 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,857 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,861 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,861 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,861 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,861 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,865 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,865 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,865 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,865 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,869 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,869 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,869 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,869 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,869 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,877 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,877 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,877 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,877 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,881 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,881 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,881 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,881 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,881 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,885 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,885 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,885 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,889 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,889 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,889 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,889 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,889 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,893 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,893 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,893 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,893 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,897 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,897 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,897 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,901 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,901 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,901 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,901 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,905 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,905 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,909 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,909 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,909 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,909 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,909 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,913 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,913 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,913 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,917 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,917 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,917 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,917 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,921 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,921 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,921 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,921 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,925 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,925 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,925 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,925 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,925 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,929 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,929 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,929 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,929 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,933 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,933 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,933 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,933 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,937 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,937 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,937 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,937 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,941 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,941 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,941 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,945 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,945 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,945 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,945 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,945 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,949 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,949 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,949 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,949 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,949 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,952 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,952 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,952 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,952 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,956 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,956 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,956 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,956 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,960 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,960 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,960 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,960 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,960 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,964 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,964 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,964 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,968 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,968 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,968 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,968 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,972 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,972 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,972 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,972 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,972 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,972 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,976 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,976 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,976 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,976 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,980 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,980 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,980 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,984 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,984 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,984 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,984 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,988 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:58,988 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,996 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:58,996 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:58,996 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:58,996 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:58,996 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,000 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,000 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,000 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,000 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,000 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,004 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,004 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,004 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,004 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,008 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,008 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,008 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,008 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,012 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,012 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,012 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,012 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,012 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,016 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,016 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,016 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,016 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,020 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,020 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,020 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,020 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,020 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,024 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,024 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,024 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,028 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,028 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,028 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,028 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,028 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,032 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,032 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,032 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,032 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,036 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,036 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,036 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,036 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,040 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,040 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,040 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,040 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,044 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,044 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,044 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,044 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,044 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,048 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,048 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,048 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,048 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,048 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,052 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,052 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,052 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,052 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,056 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,056 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,056 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,056 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,056 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,060 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,060 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,060 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,060 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,064 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,064 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,064 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,064 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,068 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,068 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,068 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,068 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,072 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,072 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,072 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,072 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,072 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,076 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,076 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,076 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,076 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,076 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,080 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,080 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,080 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,080 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,080 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,084 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,084 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,084 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,084 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,084 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,088 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,088 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,088 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,088 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,088 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,092 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,092 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,092 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,092 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,092 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,096 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,096 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,096 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,096 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,096 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,100 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,100 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,100 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,100 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,100 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,104 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,104 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,104 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,104 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,108 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,108 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,108 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,112 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,112 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,112 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,116 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,116 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,116 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,120 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,124 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,124 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,128 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,128 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,128 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,128 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,132 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,168 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,168 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,168 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,168 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,168 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,172 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,172 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,172 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,172 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,172 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,176 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,176 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,176 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,176 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,180 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,180 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,180 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,180 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,180 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,180 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,184 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,184 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,184 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,184 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,184 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,188 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,192 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,192 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,196 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,196 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,196 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,196 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,196 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,196 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,208 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,220 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,220 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,220 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,228 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,228 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,228 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,232 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,232 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,232 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,232 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,232 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,236 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,240 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,240 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,240 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,244 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,244 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,244 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,244 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,252 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,252 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,252 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,252 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,252 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,252 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,256 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,256 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,256 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,260 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,260 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,260 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,268 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,268 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,268 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,272 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,272 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,272 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,272 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,272 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,276 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,276 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,276 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,276 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,276 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,276 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,280 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,280 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,280 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,280 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,280 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,280 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,284 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,284 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,284 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,284 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,284 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,284 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,288 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,288 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,288 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,288 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,288 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,288 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,292 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,292 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,292 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,292 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,292 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,296 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,296 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,296 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,300 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,308 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,312 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,312 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,320 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,320 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,324 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,328 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,328 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,328 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,328 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,328 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,328 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,332 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,332 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,332 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,332 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,332 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,332 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,336 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,336 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,336 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,336 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,340 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,340 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,340 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,348 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,356 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,356 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,356 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,356 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,360 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,360 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,360 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,364 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,364 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,364 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,368 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,368 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,368 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,372 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,372 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,384 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,384 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,384 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,384 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,384 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,388 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,392 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,392 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,396 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,396 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,396 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,396 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,396 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,400 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,400 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,400 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,400 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,400 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,408 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,416 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,440 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,440 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,444 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,448 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,448 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,448 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,448 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,452 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,452 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,452 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,452 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,452 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,452 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,456 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,456 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,460 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,460 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,464 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,464 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,464 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,464 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,464 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,468 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,480 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,480 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,480 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,480 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,480 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,484 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,484 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,484 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,484 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,484 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,488 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,488 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,488 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,488 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,488 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,492 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,492 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,492 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,492 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,492 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,496 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,496 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,496 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,496 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,496 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,500 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,500 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,500 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,504 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,504 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,504 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,504 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,508 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,508 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,508 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,512 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,512 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,512 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,512 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,512 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,512 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,512 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,516 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,516 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,516 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,516 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,520 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,520 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,520 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,520 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,520 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,520 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,524 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,524 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,524 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,524 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,524 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,528 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,528 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,528 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,528 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,528 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,528 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,532 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,532 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,532 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,532 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,532 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,536 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,536 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,536 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,536 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,536 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,536 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,536 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,540 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,540 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,540 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,540 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,544 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,544 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,544 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,548 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,552 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,552 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,552 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,556 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,556 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,556 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,556 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,564 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,572 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,572 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,572 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,576 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,576 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,576 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,576 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,576 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,576 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,580 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,580 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,580 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,580 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,584 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,584 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,584 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,584 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,584 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,584 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,588 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,588 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,588 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,596 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,596 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,596 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,600 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,600 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,600 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,600 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,600 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,600 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,600 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,604 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,604 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,604 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,604 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,604 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,604 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,608 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,608 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,608 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,608 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,612 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,612 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,612 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,612 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,612 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,612 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,616 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,616 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,616 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,616 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,616 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,616 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,620 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,620 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,620 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,620 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,620 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,620 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,624 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,624 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,624 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,624 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,624 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,628 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,628 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,628 [INFO ] (Changer.java:39) - 1 changematrix [0][0] to:1
+16:14:59,656 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,660 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,660 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,660 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,660 [INFO ] (Changer.java:39) - 3 changematrix [0][0] to:3
+16:14:59,664 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,668 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,672 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,672 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,676 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,676 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,676 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,680 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,680 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,680 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,680 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,680 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,680 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,684 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,684 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,684 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,684 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,688 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,688 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,688 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,688 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,688 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,688 [INFO ] (Changer.java:39) - 5 changematrix [0][0] to:5
+16:14:59,692 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,711 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,711 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,711 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,711 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:14:59,711 [INFO ] (Changer.java:39) - 4 changematrix [0][0] to:4
+16:14:59,715 [INFO ] (Changer.java:39) - 2 changematrix [0][0] to:2
+16:22:22,269 [INFO ] (Matrix.java:36) - size of matrix10:n
+16:22:22,301 [INFO ] (Changer.java:36) - 5 changematrix [0][0] to:5
+16:22:22,301 [INFO ] (Changer.java:36) - 4 changematrix [0][0] to:4
+16:22:22,301 [INFO ] (Changer.java:36) - 1 changematrix [0][0] to:1
+16:22:22,688 [INFO ] (Matrix.java:36) - size of matrix10:n
+16:22:22,728 [INFO ] (Changer.java:36) - 1 changematrix [0][0] to:1
+16:24:58,183 [INFO ] (Matrix.java:36) - size of matrix:10
+16:24:58,211 [INFO ] (Changer.java:35) - 1 changematrix [0][0] to:1
+16:50:58,725 [INFO ] (Matrix.java:36) - size of matrix:10
+16:50:58,755 [INFO ] (Changer.java:35) - 1 changematrix [0][0] to:1
+16:51:09,372 [INFO ] (Matrix.java:36) - size of matrix:10
+16:51:09,404 [INFO ] (Changer.java:34) - 1 changematrix [0][0] to:1
+16:54:00,532 [INFO ] (Matrix.java:36) - size of matrix:10
+16:54:00,561 [INFO ] (Changer.java:44) - 1 changematrix [0][0] to:1
+16:54:00,563 [INFO ] (Changer.java:44) - 1 changematrix [1][1] to:1
+16:54:00,565 [INFO ] (Changer.java:44) - 1 changematrix [2][2] to:1
+16:54:00,567 [INFO ] (Changer.java:44) - 5 changematrix [0][0] to:5
+16:54:00,569 [INFO ] (Changer.java:44) - 5 changematrix [3][3] to:5
+16:54:00,571 [INFO ] (Changer.java:44) - 5 changematrix [4][4] to:5
+16:54:00,573 [INFO ] (Changer.java:44) - 4 changematrix [0][0] to:4
+16:54:00,575 [INFO ] (Changer.java:44) - 4 changematrix [5][5] to:4
+16:54:00,577 [INFO ] (Changer.java:44) - 4 changematrix [6][6] to:4
+16:54:00,579 [INFO ] (Changer.java:44) - 3 changematrix [0][0] to:3
+16:54:00,581 [INFO ] (Changer.java:44) - 3 changematrix [7][7] to:3
+16:54:00,583 [INFO ] (Changer.java:44) - 3 changematrix [8][8] to:3
+16:54:00,585 [INFO ] (Changer.java:44) - 2 changematrix [0][0] to:2
+16:54:00,588 [INFO ] (Changer.java:44) - 2 changematrix [9][9] to:2
+16:55:17,688 [INFO ] (Matrix.java:36) - size of matrix:10
+16:55:17,723 [INFO ] (Changer.java:44) - 1 changematrix [0][0] to:1
+16:55:17,726 [INFO ] (Changer.java:44) - 1 changematrix [1][1] to:1
+16:55:17,728 [INFO ] (Changer.java:44) - 2 changematrix [0][0] to:2
+16:55:17,730 [INFO ] (Changer.java:44) - 2 changematrix [2][2] to:2
+16:55:17,732 [INFO ] (Changer.java:44) - 3 changematrix [0][0] to:3
+16:55:17,734 [INFO ] (Changer.java:44) - 3 changematrix [3][3] to:3
+16:55:17,738 [INFO ] (Changer.java:44) - 5 changematrix [0][0] to:5
+16:55:17,740 [INFO ] (Changer.java:44) - 5 changematrix [4][4] to:5
+16:55:17,742 [INFO ] (Changer.java:44) - 4 changematrix [0][0] to:4
+16:55:17,744 [INFO ] (Changer.java:44) - 4 changematrix [5][5] to:4
+16:56:37,732 [INFO ] (Matrix.java:36) - size of matrix:10
+16:56:37,763 [INFO ] (Changer.java:44) - 1 changematrix [0][0] to:1
+16:56:37,765 [INFO ] (Changer.java:44) - 1 changematrix [1][1] to:1
+16:56:37,768 [INFO ] (Changer.java:44) - 5 changematrix [0][0] to:5
+16:56:37,770 [INFO ] (Changer.java:44) - 5 changematrix [2][2] to:5
+16:56:37,773 [INFO ] (Changer.java:44) - 4 changematrix [0][0] to:4
+16:56:37,775 [INFO ] (Changer.java:44) - 4 changematrix [3][3] to:4
+16:56:37,777 [INFO ] (Changer.java:44) - 2 changematrix [0][0] to:2
+16:56:37,779 [INFO ] (Changer.java:44) - 2 changematrix [4][4] to:2
+16:56:37,781 [INFO ] (Changer.java:44) - 3 changematrix [0][0] to:3
+16:56:37,783 [INFO ] (Changer.java:44) - 3 changematrix [5][5] to:3
+17:03:59,245 [INFO ] (Matrix.java:36) - size of matrix:10
+17:03:59,276 [INFO ] (Changer.java:38) - 1 changematrix [0][0] to:1
+17:05:23,006 [INFO ] (Matrix.java:36) - size of matrix:10
+17:05:23,041 [INFO ] (Changer.java:38) - 5thread changedmatrix [0][0] to:5
+17:05:23,042 [INFO ] (Changer.java:38) - 1thread changedmatrix [0][0] to:1
+17:10:28,299 [INFO ] (Matrix.java:36) - size of matrix:10
+17:10:28,365 [INFO ] (Changer.java:42) - 2thread changedmatrix [0][0] to:2
+17:10:28,370 [INFO ] (Changer.java:42) - 4thread changedmatrix [0][0] to:4
+17:10:28,373 [INFO ] (Changer.java:42) - 4thread changedmatrix [1][1] to:4
+17:10:28,376 [INFO ] (Changer.java:42) - 2thread changedmatrix [1][1] to:2
+17:10:28,377 [INFO ] (Changer.java:42) - 3thread changedmatrix [0][0] to:3
+17:10:28,379 [INFO ] (Changer.java:42) - 3thread changedmatrix [2][2] to:3
+17:10:28,370 [INFO ] (Changer.java:42) - 5thread changedmatrix [0][0] to:5
+17:10:28,382 [INFO ] (Changer.java:42) - 5thread changedmatrix [3][3] to:5
+17:10:28,383 [INFO ] (Changer.java:42) - 1thread changedmatrix [0][0] to:1
+17:10:28,387 [INFO ] (Changer.java:42) - 1thread changedmatrix [4][4] to:1
+17:11:42,965 [INFO ] (Matrix.java:36) - size of matrix:10
+17:11:42,997 [INFO ] (Changer.java:42) - 3thread changedmatrix [0][0] to:3
+17:11:43,002 [INFO ] (Changer.java:42) - 3thread changedmatrix [1][1] to:3
+17:11:43,000 [INFO ] (Changer.java:42) - 5thread changedmatrix [0][0] to:5
+17:11:43,004 [INFO ] (Changer.java:42) - 5thread changedmatrix [2][2] to:5
+17:11:42,999 [INFO ] (Changer.java:42) - 2thread changedmatrix [0][0] to:2
+17:11:43,007 [INFO ] (Changer.java:42) - 2thread changedmatrix [3][3] to:2
+17:11:43,015 [INFO ] (Changer.java:42) - 4thread changedmatrix [0][0] to:4
+17:11:43,022 [INFO ] (Changer.java:42) - 4thread changedmatrix [4][4] to:4
+17:11:43,023 [INFO ] (Changer.java:42) - 1thread changedmatrix [0][0] to:1
+17:11:43,026 [INFO ] (Changer.java:42) - 1thread changedmatrix [5][5] to:1
+17:12:22,702 [INFO ] (Matrix.java:36) - size of matrix:10
+17:12:22,738 [INFO ] (Changer.java:42) - 3thread changedmatrix [0][0] to:3
+17:12:22,737 [INFO ] (Changer.java:42) - 2thread changedmatrix [0][0] to:2
+17:12:22,738 [INFO ] (Changer.java:42) - 5thread changedmatrix [0][0] to:5
+17:12:22,737 [INFO ] (Changer.java:42) - 4thread changedmatrix [0][0] to:4
+17:12:22,742 [INFO ] (Changer.java:42) - 5thread changedmatrix [1][1] to:5
+17:12:22,740 [INFO ] (Changer.java:42) - 1thread changedmatrix [0][0] to:1
+17:12:22,743 [INFO ] (Changer.java:42) - 3thread changedmatrix [1][1] to:3
+17:12:22,742 [INFO ] (Changer.java:42) - 4thread changedmatrix [1][1] to:4
+17:12:22,745 [INFO ] (Changer.java:42) - 2thread changedmatrix [1][1] to:2
+17:12:22,745 [INFO ] (Changer.java:42) - 1thread changedmatrix [2][2] to:1
+17:13:41,304 [INFO ] (Matrix.java:36) - size of matrix:10
+17:13:41,367 [INFO ] (Changer.java:42) - 5 thread changedmatrix [0][0] to:5
+17:13:41,368 [INFO ] (Changer.java:42) - 2 thread changedmatrix [0][0] to:2
+17:13:41,366 [INFO ] (Changer.java:42) - 4 thread changedmatrix [0][0] to:4
+17:13:41,370 [INFO ] (Changer.java:42) - 5 thread changedmatrix [1][1] to:5
+17:13:41,372 [INFO ] (Changer.java:42) - 4 thread changedmatrix [1][1] to:4
+17:13:41,370 [INFO ] (Changer.java:42) - 2 thread changedmatrix [1][1] to:2
+17:13:41,363 [INFO ] (Changer.java:42) - 3 thread changedmatrix [0][0] to:3
+17:13:41,367 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:13:41,375 [INFO ] (Changer.java:42) - 3 thread changedmatrix [2][2] to:3
+17:13:41,377 [INFO ] (Changer.java:42) - 1 thread changedmatrix [2][2] to:1
+17:13:53,841 [INFO ] (Matrix.java:36) - size of matrix:10
+17:13:53,880 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:13:53,883 [INFO ] (Changer.java:42) - 1 thread changedmatrix [1][1] to:1
+17:13:53,885 [INFO ] (Changer.java:42) - 3 thread changedmatrix [2][2] to:3
+17:13:53,888 [INFO ] (Changer.java:42) - 3 thread changedmatrix [3][3] to:3
+17:13:53,890 [INFO ] (Changer.java:42) - 2 thread changedmatrix [4][4] to:2
+17:13:53,901 [INFO ] (Changer.java:42) - 4 thread changedmatrix [5][5] to:4
+17:13:53,906 [INFO ] (Changer.java:42) - 4 thread changedmatrix [6][6] to:4
+17:13:53,909 [INFO ] (Changer.java:42) - 5 thread changedmatrix [7][7] to:5
+17:13:53,910 [INFO ] (Changer.java:42) - 5 thread changedmatrix [8][8] to:5
+17:13:53,912 [INFO ] (Changer.java:42) - 2 thread changedmatrix [9][9] to:2
+17:14:06,531 [INFO ] (Matrix.java:36) - size of matrix:10
+17:14:06,560 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:14:06,563 [INFO ] (Changer.java:42) - 5 thread changedmatrix [1][1] to:5
+17:14:06,565 [INFO ] (Changer.java:42) - 5 thread changedmatrix [2][2] to:5
+17:14:06,568 [INFO ] (Changer.java:42) - 2 thread changedmatrix [3][3] to:2
+17:14:06,570 [INFO ] (Changer.java:42) - 2 thread changedmatrix [4][4] to:2
+17:14:06,572 [INFO ] (Changer.java:42) - 4 thread changedmatrix [5][5] to:4
+17:14:06,574 [INFO ] (Changer.java:42) - 4 thread changedmatrix [6][6] to:4
+17:14:06,577 [INFO ] (Changer.java:42) - 3 thread changedmatrix [7][7] to:3
+17:14:06,579 [INFO ] (Changer.java:42) - 3 thread changedmatrix [8][8] to:3
+17:14:06,581 [INFO ] (Changer.java:42) - 1 thread changedmatrix [9][9] to:1
+17:15:01,926 [INFO ] (Matrix.java:36) - size of matrix:10
+17:15:01,978 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:15:01,981 [INFO ] (Changer.java:42) - 4 thread changedmatrix [1][1] to:4
+17:15:01,983 [INFO ] (Changer.java:42) - 2 thread changedmatrix [2][2] to:2
+17:15:01,986 [INFO ] (Changer.java:42) - 5 thread changedmatrix [3][3] to:5
+17:15:01,988 [INFO ] (Changer.java:42) - 5 thread changedmatrix [4][4] to:5
+17:15:01,991 [INFO ] (Changer.java:42) - 1 thread changedmatrix [5][5] to:1
+17:15:01,993 [INFO ] (Changer.java:42) - 4 thread changedmatrix [6][6] to:4
+17:15:01,995 [INFO ] (Changer.java:42) - 3 thread changedmatrix [7][7] to:3
+17:15:01,997 [INFO ] (Changer.java:42) - 3 thread changedmatrix [8][8] to:3
+17:15:02,000 [INFO ] (Changer.java:42) - 2 thread changedmatrix [9][9] to:2
+17:15:26,840 [INFO ] (Matrix.java:36) - size of matrix:10
+17:15:26,891 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:15:26,894 [INFO ] (Changer.java:42) - 2 thread changedmatrix [1][1] to:2
+17:15:26,896 [INFO ] (Changer.java:42) - 2 thread changedmatrix [2][2] to:2
+17:15:26,904 [INFO ] (Changer.java:42) - 5 thread changedmatrix [3][3] to:5
+17:15:26,908 [INFO ] (Changer.java:42) - 5 thread changedmatrix [4][4] to:5
+17:15:26,910 [INFO ] (Changer.java:42) - 3 thread changedmatrix [5][5] to:3
+17:15:26,914 [INFO ] (Changer.java:42) - 3 thread changedmatrix [6][6] to:3
+17:15:26,916 [INFO ] (Changer.java:42) - 1 thread changedmatrix [7][7] to:1
+17:15:26,918 [INFO ] (Changer.java:42) - 4 thread changedmatrix [8][8] to:4
+17:15:26,921 [INFO ] (Changer.java:42) - 4 thread changedmatrix [9][9] to:4
+17:15:43,285 [INFO ] (Matrix.java:36) - size of matrix:10
+17:15:43,314 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:15:43,317 [INFO ] (Changer.java:42) - 1 thread changedmatrix [1][1] to:1
+17:15:43,321 [INFO ] (Changer.java:42) - 2 thread changedmatrix [2][2] to:2
+17:15:43,323 [INFO ] (Changer.java:42) - 2 thread changedmatrix [3][3] to:2
+17:15:43,327 [INFO ] (Changer.java:42) - 3 thread changedmatrix [4][4] to:3
+17:15:43,330 [INFO ] (Changer.java:42) - 3 thread changedmatrix [5][5] to:3
+17:15:43,333 [INFO ] (Changer.java:42) - 5 thread changedmatrix [6][6] to:5
+17:15:43,335 [INFO ] (Changer.java:42) - 5 thread changedmatrix [7][7] to:5
+17:15:43,337 [INFO ] (Changer.java:42) - 4 thread changedmatrix [8][8] to:4
+17:15:43,339 [INFO ] (Changer.java:42) - 4 thread changedmatrix [9][9] to:4
+17:16:09,564 [INFO ] (Matrix.java:36) - size of matrix:10
+17:16:09,607 [INFO ] (Changer.java:42) - 2 thread changedmatrix [0][0] to:2
+17:16:09,616 [INFO ] (Changer.java:42) - 2 thread changedmatrix [1][1] to:2
+17:16:09,627 [INFO ] (Changer.java:42) - 4 thread changedmatrix [2][2] to:4
+17:16:09,634 [INFO ] (Changer.java:42) - 4 thread changedmatrix [3][3] to:4
+17:16:09,639 [INFO ] (Changer.java:42) - 3 thread changedmatrix [4][4] to:3
+17:16:09,647 [INFO ] (Changer.java:42) - 1 thread changedmatrix [5][5] to:1
+17:16:09,650 [INFO ] (Changer.java:42) - 1 thread changedmatrix [6][6] to:1
+17:16:09,652 [INFO ] (Changer.java:42) - 5 thread changedmatrix [7][7] to:5
+17:16:09,654 [INFO ] (Changer.java:42) - 5 thread changedmatrix [8][8] to:5
+17:16:09,656 [INFO ] (Changer.java:42) - 3 thread changedmatrix [9][9] to:3
+17:30:38,691 [INFO ] (Matrix.java:36) - size of matrix:10
+17:30:38,725 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:30:38,728 [INFO ] (Changer.java:42) - 1 thread changedmatrix [1][1] to:1
+17:30:38,730 [INFO ] (Changer.java:42) - 4 thread changedmatrix [2][2] to:4
+17:30:38,732 [INFO ] (Changer.java:42) - 4 thread changedmatrix [3][3] to:4
+17:30:38,735 [INFO ] (Changer.java:42) - 5 thread changedmatrix [4][4] to:5
+17:30:38,737 [INFO ] (Changer.java:42) - 5 thread changedmatrix [5][5] to:5
+17:30:38,740 [INFO ] (Changer.java:42) - 2 thread changedmatrix [6][6] to:2
+17:30:38,742 [INFO ] (Changer.java:42) - 2 thread changedmatrix [7][7] to:2
+17:30:38,744 [INFO ] (Changer.java:42) - 3 thread changedmatrix [8][8] to:3
+17:30:38,745 [INFO ] (Changer.java:42) - 3 thread changedmatrix [9][9] to:3
+17:33:54,663 [INFO ] (Matrix.java:35) - size of matrix:9
+17:33:54,701 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:33:54,703 [INFO ] (Changer.java:42) - 1 thread changedmatrix [1][1] to:1
+17:33:54,707 [INFO ] (Changer.java:42) - 2 thread changedmatrix [2][2] to:2
+17:33:54,709 [INFO ] (Changer.java:42) - 2 thread changedmatrix [3][3] to:2
+17:33:54,711 [INFO ] (Changer.java:42) - 4 thread changedmatrix [4][4] to:4
+17:33:54,714 [INFO ] (Changer.java:42) - 4 thread changedmatrix [5][5] to:4
+17:33:54,717 [INFO ] (Changer.java:42) - 5 thread changedmatrix [6][6] to:5
+17:33:54,719 [INFO ] (Changer.java:42) - 5 thread changedmatrix [7][7] to:5
+17:33:54,720 [INFO ] (Changer.java:42) - 3 thread changedmatrix [8][8] to:3
+17:34:28,429 [INFO ] (Matrix.java:35) - size of matrix:8
+17:34:28,484 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:34:28,491 [INFO ] (Changer.java:42) - 1 thread changedmatrix [1][1] to:1
+17:34:28,493 [INFO ] (Changer.java:42) - 2 thread changedmatrix [2][2] to:2
+17:34:28,495 [INFO ] (Changer.java:42) - 2 thread changedmatrix [3][3] to:2
+17:34:28,498 [INFO ] (Changer.java:42) - 4 thread changedmatrix [4][4] to:4
+17:34:28,501 [INFO ] (Changer.java:42) - 4 thread changedmatrix [5][5] to:4
+17:34:28,503 [INFO ] (Changer.java:42) - 5 thread changedmatrix [6][6] to:5
+17:34:28,505 [INFO ] (Changer.java:42) - 5 thread changedmatrix [7][7] to:5
+17:37:17,973 [INFO ] (Matrix.java:35) - size of matrix:9
+17:37:18,006 [INFO ] (Changer.java:42) - 2 thread changedmatrix [0][0] to:2
+17:37:18,009 [INFO ] (Changer.java:42) - 2 thread changedmatrix [1][1] to:2
+17:37:18,012 [INFO ] (Changer.java:42) - 1 thread changedmatrix [2][2] to:1
+17:37:18,015 [INFO ] (Changer.java:42) - 1 thread changedmatrix [3][3] to:1
+17:37:18,017 [INFO ] (Changer.java:42) - 5 thread changedmatrix [4][4] to:5
+17:37:18,019 [INFO ] (Changer.java:42) - 5 thread changedmatrix [5][5] to:5
+17:37:18,021 [INFO ] (Changer.java:42) - 3 thread changedmatrix [6][6] to:3
+17:37:18,024 [INFO ] (Changer.java:42) - 3 thread changedmatrix [7][7] to:3
+17:37:18,026 [INFO ] (Changer.java:42) - 4 thread changedmatrix [8][8] to:4
+17:38:43,467 [INFO ] (Matrix.java:35) - size of matrix:0
+17:39:07,854 [INFO ] (Matrix.java:35) - size of matrix:0
+17:39:22,999 [INFO ] (Matrix.java:35) - size of matrix:0
+17:39:48,460 [INFO ] (Matrix.java:35) - size of matrix:0
+17:40:09,685 [INFO ] (Matrix.java:35) - size of matrix:9
+17:40:09,722 [INFO ] (Changer.java:42) - 1 thread changedmatrix [0][0] to:1
+17:40:09,726 [INFO ] (Changer.java:42) - 1 thread changedmatrix [1][1] to:1
+17:40:09,728 [INFO ] (Changer.java:42) - 2 thread changedmatrix [2][2] to:2
+17:40:09,731 [INFO ] (Changer.java:42) - 5 thread changedmatrix [3][3] to:5
+17:40:09,733 [INFO ] (Changer.java:42) - 5 thread changedmatrix [4][4] to:5
+17:40:09,736 [INFO ] (Changer.java:42) - 4 thread changedmatrix [5][5] to:4
+17:40:09,739 [INFO ] (Changer.java:42) - 4 thread changedmatrix [6][6] to:4
+17:40:09,741 [INFO ] (Changer.java:42) - 3 thread changedmatrix [7][7] to:3
+17:40:09,743 [INFO ] (Changer.java:42) - 3 thread changedmatrix [8][8] to:3
+17:41:14,984 [INFO ] (Matrix.java:35) - size of matrix:9
+17:41:15,025 [INFO ] (Changer.java:42) - 1 thread changed matrix [0][0] to:1
+17:41:15,028 [INFO ] (Changer.java:42) - 4 thread changed matrix [1][1] to:4
+17:41:15,030 [INFO ] (Changer.java:42) - 4 thread changed matrix [2][2] to:4
+17:41:15,032 [INFO ] (Changer.java:42) - 4 thread changed matrix [3][3] to:4
+17:41:15,034 [INFO ] (Changer.java:42) - 4 thread changed matrix [4][4] to:4
+17:41:15,035 [INFO ] (Changer.java:42) - 4 thread changed matrix [5][5] to:4
+17:41:15,037 [INFO ] (Changer.java:42) - 4 thread changed matrix [6][6] to:4
+17:41:15,039 [INFO ] (Changer.java:42) - 4 thread changed matrix [7][7] to:4
+17:41:15,041 [INFO ] (Changer.java:42) - 4 thread changed matrix [8][8] to:4
+17:41:32,712 [INFO ] (Matrix.java:35) - size of matrix:9
+17:41:32,751 [INFO ] (Changer.java:42) - 2 thread changed matrix [0][0] to:2
+17:41:32,752 [INFO ] (Changer.java:42) - 3 thread changed matrix [0][0] to:3
+17:41:32,751 [INFO ] (Changer.java:42) - 4 thread changed matrix [0][0] to:4
+17:41:32,754 [INFO ] (Changer.java:42) - 4 thread changed matrix [1][1] to:4
+17:41:32,754 [INFO ] (Changer.java:42) - 5 thread changed matrix [0][0] to:5
+17:41:32,755 [INFO ] (Changer.java:42) - 4 thread changed matrix [2][2] to:4
+17:41:32,756 [INFO ] (Changer.java:42) - 5 thread changed matrix [2][2] to:5
+17:41:32,749 [INFO ] (Changer.java:42) - 1 thread changed matrix [0][0] to:1
+17:41:32,757 [INFO ] (Changer.java:42) - 5 thread changed matrix [3][3] to:5
+17:41:32,758 [INFO ] (Changer.java:42) - 1 thread changed matrix [3][3] to:1
+17:41:32,759 [INFO ] (Changer.java:42) - 5 thread changed matrix [4][4] to:5
+17:41:32,760 [INFO ] (Changer.java:42) - 5 thread changed matrix [5][5] to:5
+17:41:32,761 [INFO ] (Changer.java:42) - 2 thread changed matrix [1][1] to:2
+17:41:32,762 [INFO ] (Changer.java:42) - 5 thread changed matrix [6][6] to:5
+17:41:32,763 [INFO ] (Changer.java:42) - 2 thread changed matrix [6][6] to:2
+17:41:32,764 [INFO ] (Changer.java:42) - 3 thread changed matrix [1][1] to:3
+17:41:32,765 [INFO ] (Changer.java:42) - 2 thread changed matrix [7][7] to:2
+17:41:32,766 [INFO ] (Changer.java:42) - 3 thread changed matrix [7][7] to:3
+17:41:32,766 [INFO ] (Changer.java:42) - 2 thread changed matrix [8][8] to:2
+17:41:32,760 [INFO ] (Changer.java:42) - 1 thread changed matrix [4][4] to:1
+17:41:32,763 [INFO ] (Changer.java:42) - 5 thread changed matrix [7][7] to:5
+17:41:32,768 [INFO ] (Changer.java:42) - 4 thread changed matrix [3][3] to:4
+17:41:32,768 [INFO ] (Changer.java:42) - 3 thread changed matrix [8][8] to:3
+17:42:17,499 [INFO ] (Matrix.java:35) - size of matrix:8
+17:42:17,530 [INFO ] (Changer.java:42) - 1 thread changed matrix [0][0] to:1
+17:42:17,534 [INFO ] (Changer.java:42) - 3 thread changed matrix [1][1] to:3
+17:42:17,536 [INFO ] (Changer.java:42) - 3 thread changed matrix [2][2] to:3
+17:42:17,538 [INFO ] (Changer.java:42) - 2 thread changed matrix [3][3] to:2
+17:42:17,540 [INFO ] (Changer.java:42) - 2 thread changed matrix [4][4] to:2
+17:42:17,542 [INFO ] (Changer.java:42) - 5 thread changed matrix [5][5] to:5
+17:42:17,544 [INFO ] (Changer.java:42) - 5 thread changed matrix [6][6] to:5
+17:42:17,546 [INFO ] (Changer.java:42) - 1 thread changed matrix [7][7] to:1
+17:44:05,916 [INFO ] (Matrix.java:35) - size of matrix:8
+17:44:05,958 [INFO ] (Changer.java:42) - 1 thread changed matrix [0][0] to:1
+17:44:05,958 [INFO ] (Changer.java:42) - 5 thread changed matrix [0][0] to:5
+17:44:05,960 [INFO ] (Changer.java:42) - 5 thread changed matrix [1][1] to:5
+17:44:05,962 [INFO ] (Changer.java:42) - 1 thread changed matrix [1][1] to:1
+17:44:05,964 [INFO ] (Changer.java:42) - 4 thread changed matrix [2][2] to:4
+17:44:05,967 [INFO ] (Changer.java:42) - 4 thread changed matrix [3][3] to:4
+17:44:05,969 [INFO ] (Changer.java:42) - 2 thread changed matrix [4][4] to:2
+17:44:05,972 [INFO ] (Changer.java:42) - 3 thread changed matrix [4][4] to:3
+17:44:05,974 [INFO ] (Changer.java:42) - 3 thread changed matrix [5][5] to:3
+17:44:05,975 [INFO ] (Changer.java:42) - 2 thread changed matrix [5][5] to:2
